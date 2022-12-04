@@ -1,0 +1,74 @@
+@media(max-width:575px){
+    header img{
+        display: none;
+    }
+    .banner-content{
+        padding-top: 50px;
+    }
+    .one .owl-nav button.owl-prev{
+        left: 0%;
+    }
+    .one .owl-nav button.owl-next{
+        right: 0%;
+    }
+    .phon-all img{
+        display: inline-block;
+    }
+    .number h6{
+        font-size: 15px;
+    }
+    .number p{
+        font-size: 11px;
+    }
+    .navbar-brand{
+        display: inline-block;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .one .owl-item img {
+        display: none;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .dental h2{
+        text-align: center;
+    }
+    .dental p{
+        text-align: center;
+    }
+    .doc2 {
+        position: inherit;
+       width: 55%;
+       margin: auto;
+       margin-bottom: 30px;
+
+    }
+    .teeth p{
+       text-align: start !important;
+    }
+    .docs-all{
+        margin-bottom: 20px;
+    }
+    .box{
+        margin-bottom: 20px;
+    }
+    .box2{
+        margin-bottom: 20px;
+    }
+    .location img{
+        width: 5%;
+    }
+    .clien h1{
+        margin-top: 25px;
+        margin-bottom: 3px;
+        font-size: 28px;
+    }
+    .two .owl-nav button.owl-prev{
+        left: -3%;
+    }
+    .two .owl-nav button.owl-next{
+        right: -3%;
+    }
+}
